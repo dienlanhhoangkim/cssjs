@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://suachuamaygiattaitphcm.blogspot.com/' target='_blank'><img src='http://dienlanhhoangkim.com/images/logo.png' width='500px'/>Công Ty Tân Hoàng Kim</a>. Phục vụ toàn tphcm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://suachuamaygiattaitphcm.blogspot.com/' target='_blank'><img src='http://dienlanhhoangkim.vn/adv_banner-flash_95.jpg' width='500px'/>Công Ty Tân Hoàng Kim</a>. Phục vụ toàn tphcm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
